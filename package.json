@@ -1,0 +1,20 @@
+{
+  "name": "super-bot",
+  "version": "2.0.0",
+  "description": "Bot simples",
+  "main": "index.js",
+  "scripts": {
+    "test": "s!ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "0025"
+  },
+  "author": "Cauã",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "ms": "^2.0.0",
+    "ytdl-core": "^0.15.0"
+  }
+}
